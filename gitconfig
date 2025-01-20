@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sam.ezzaher@gmail.com
+	name = sami ezzaher
